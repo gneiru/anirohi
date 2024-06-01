@@ -75,8 +75,8 @@ dependencies:
     specifier: ^1.11.11
     version: 1.11.11
   drizzle-orm:
-    specifier: ^0.30.10
-    version: 0.30.10(@neondatabase/serverless@0.9.3)(@types/react@18.3.3)(react@18.3.1)
+    specifier: ^0.31.0
+    version: 0.31.0(@neondatabase/serverless@0.9.3)(@types/react@18.3.3)(react@18.3.1)
   embla-carousel-autoplay:
     specifier: 8.1.3
     version: 8.1.3(embla-carousel@8.1.3)
@@ -4044,8 +4044,8 @@ packages:
       - supports-color
     dev: true
 
-  /drizzle-orm@0.30.10(@neondatabase/serverless@0.9.3)(@types/react@18.3.3)(react@18.3.1):
-    resolution: {integrity: sha512-IRy/QmMWw9lAQHpwbUh1b8fcn27S/a9zMIzqea1WNOxK9/4EB8gIo+FZWLiPXzl2n9ixGSv8BhsLZiOppWEwBw==}
+  /drizzle-orm@0.31.0(@neondatabase/serverless@0.9.3)(@types/react@18.3.3)(react@18.3.1):
+    resolution: {integrity: sha512-Uf5a3sGOqoyC+ZpQ4NCPR373q0pHOHezIJwdumMix+3rzLdtKgRhdaOabYeqNHBB48gF3Q9rrndkNc4ddE3AWA==}
     peerDependencies:
       '@aws-sdk/client-rds-data': '>=3'
       '@cloudflare/workers-types': '>=3'
