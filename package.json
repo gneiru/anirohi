@@ -11,7 +11,7 @@
     "fmt": "biome format src --write && biome check src --apply-unsafe"
   },
   "dependencies": {
-    "@auth/core": "^0.31.0",
+    "@auth/core": "^0.34.0",
     "@auth/drizzle-adapter": "^0.9.0",
     "@hookform/resolvers": "^3.4.2",
     "@neondatabase/serverless": "^0.9.3",
