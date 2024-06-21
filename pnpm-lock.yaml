@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@auth/core':
-    specifier: ^0.31.0
-    version: 0.31.0
+    specifier: ^0.34.0
+    version: 0.34.1
   '@auth/drizzle-adapter':
     specifier: ^0.9.0
     version: 0.9.0
@@ -245,8 +245,8 @@ packages:
       preact-render-to-string: 5.2.3(preact@10.11.3)
     dev: false
 
-  /@auth/core@0.31.0:
-    resolution: {integrity: sha512-UKk3psvA1cRbk4/c9CkpWB8mdWrkKvzw0DmEYRsWolUQytQ2cRqx+hYuV6ZCsngw/xbj9hpmkZmAZEyq2g4fMg==}
+  /@auth/core@0.34.1:
+    resolution: {integrity: sha512-tuYU2VIbI8rFbkSwP710LmybB2FXJsPN7j3sjRVfN9SXVQBK2ej6LdewQaofpBGp4Mk+cC2UeiGNH0or4tgaeA==}
     peerDependencies:
       '@simplewebauthn/browser': ^9.0.1
       '@simplewebauthn/server': ^9.0.2
