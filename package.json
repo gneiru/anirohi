@@ -59,7 +59,7 @@
   "devDependencies": {
     "@biomejs/biome": "1.7.3",
     "@headlessui/tailwindcss": "^0.2.0",
-    "@types/node": "20.12.12",
+    "@types/node": "20.14.9",
     "@types/react": "^18.2",
     "@types/react-dom": "^18.2",
     "autoprefixer": "10.4.19",
